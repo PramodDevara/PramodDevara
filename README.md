@@ -1,5 +1,3 @@
-# Devara_Pramod
-# Devara_Pramod
 <h1 align="center">Hi Everyone 👋, I'm Devara Pramod</h1>
 <h3 align="center">📊 Data Scientist | Python Enthusiast 🐍 | Machine Learning & Data Analysis | Open Source Advocate | Passionate about unlocking insights from data 💡 | Let's crunch numbers and build cool stuff together! 🚀</h3>
 
